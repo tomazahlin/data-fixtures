@@ -1,0 +1,34 @@
+{
+    "name": "tomazahlin/web-api-extension",
+    "type": "behat-extension",
+    "description": "Deterministic data generator for fixtures",
+    "keywords": ["data", "fixtures", "generator"],
+    "homepage": "http://extensions.behat.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomaz Ahlin",
+            "email": "tomaz.ahlin2@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "~4.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "TAhlin\\DataFixtures\\": "src/"
+        }
+    },
+    "config": {
+      "bin-dir": "bin"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
