@@ -1,6 +1,6 @@
 <?php
 
-namespace TAhlin\DataFixtures\Generator;
+namespace Ahlin\DataFixtures\Generator;
 
 /**
  * Interface GeneratorInterface specifies the methods that generators of the data should implement

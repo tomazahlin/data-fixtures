@@ -1,6 +1,6 @@
 <?php
 
-namespace TAhlin\DataFixtures\Generator;
+namespace Ahlin\DataFixtures\Generator;
 
 /**
  * Interface DataInterface specifies the methods that data class should implement

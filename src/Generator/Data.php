@@ -1,6 +1,6 @@
 <?php
 
-namespace TAhlin\DataFixtures\Generator;
+namespace Ahlin\DataFixtures\Generator;
 
 /**
  * Class Data contains different sets of data which can be used for generation

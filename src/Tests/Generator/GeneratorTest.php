@@ -1,9 +1,9 @@
 <?php
 
-namespace TAhlin\DataFixtures\Tests\Generator;
+namespace Ahlin\DataFixtures\Tests\Generator;
 
-use TAhlin\DataFixtures\Generator\Data;
-use TAhlin\DataFixtures\Generator\Generator;
+use Ahlin\DataFixtures\Generator\Data;
+use Ahlin\DataFixtures\Generator\Generator;
 
 /**
  * Class GeneratorTest tests that data is returned by the generator

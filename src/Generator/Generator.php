@@ -1,6 +1,6 @@
 <?php
 
-namespace TAhlin\DataFixtures\Generator;
+namespace Ahlin\DataFixtures\Generator;
 
 /**
  * Class Generator should be used for generation of various properties for any data fixtures, when returned data must be deterministic
