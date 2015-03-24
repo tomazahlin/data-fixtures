@@ -2,7 +2,6 @@
     "name": "tomazahlin/data-fixtures",
     "description": "Deterministic data generator for fixtures",
     "keywords": ["data", "fixtures", "generator"],
-    "homepage": "http://extensions.behat.org",
     "license": "MIT",
     "authors": [
         {
