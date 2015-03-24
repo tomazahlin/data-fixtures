@@ -1,6 +1,5 @@
 {
     "name": "tomazahlin/data-fixtures",
-    "type": "behat-extension",
     "description": "Deterministic data generator for fixtures",
     "keywords": ["data", "fixtures", "generator"],
     "homepage": "http://extensions.behat.org",
